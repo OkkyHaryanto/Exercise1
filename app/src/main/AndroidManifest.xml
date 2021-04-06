@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ActvPAM">
         <activity android:name=".ActivityLihatData"></activity>
-        <activity android:name=".Home_Activity" />
+        <activity android:name=".Home_Activity"
+            android:parentActivityName=".MainActivity"></activity>
         <activity
-            android:name=".Pendaftaran"
-            android:parentActivityName=".MainActivity" />
+            android:name=".Pendaftaran"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

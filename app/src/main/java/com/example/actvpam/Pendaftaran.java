@@ -33,6 +33,14 @@ public class Pendaftaran extends AppCompatActivity {
         btndaf = findViewById(R.id.rbtndaftar);
         btnbatal = findViewById(R.id.rbtnbatal);
 
+        btnbatal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(getApplicationContext(), MainActivity.class);
+                startActivity(i);
+            }
+        });
+
         btndaf.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
