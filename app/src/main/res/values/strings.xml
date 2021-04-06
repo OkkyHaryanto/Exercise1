@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ActvPAM</string>
+    <string name="Email">Masukan Email</string>
+    <string name="Pass">Masukan Password</string>
+    <string name="Btnlogin">Login</string>
+    <string name="Btndaftar">Belum Daftar?</string>
+    <string name="Nama">Masukan Nama</string>
+    <string name="Alamat">Masukan Alamat</string>
+    <string name="eEmail">Masukan Email</string>
+    <string name="ePass">Masukan Password</string>
+    <string name="erepass">Masukan Ulang Password</string>
+    <string name="Btnbatal">BATAL</string>
+    <string name="Btndaf">DAFTAR</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+
+
+</resources>
